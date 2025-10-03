@@ -98,4 +98,4 @@ async def assign(ctx):
     else:
         await ctx.send("Role not found")
 
-bot.run("YOUR_BOT_TOKEN")
+bot.run("Bot_Token")
